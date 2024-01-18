@@ -1,9 +1,4 @@
-cudatoolkit==11.0.221
-cycler==0.11.0
 cython==0.29.33
-freetype==2.12.1
-gitdb==4.0.7
-gitpython==3.1.41
 matplotlib-base==3.5.3
 numpy==1.21.5
 numpy-base==1.21.5
