@@ -1,9 +1,8 @@
 cython==0.29.33
 matplotlib==3.5.3
 numpy==1.21.5
-openssl==1.1.1w
-packaging==22.0
-pathtools==0.1.2
+#packaging==22.0
+#pathtools==0.1.2
 pillow==9.3.0
 pip==22.3.1
 pycocotools==2.0.4
