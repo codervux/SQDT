@@ -1,7 +1,6 @@
 cython==0.29.33
-matplotlib-base==3.5.3
+matplotlib==3.5.3
 numpy==1.21.5
-numpy-base==1.21.5
 openssl==1.1.1w
 packaging==22.0
 pathtools==0.1.2
